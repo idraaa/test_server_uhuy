@@ -4,7 +4,7 @@
   <HandlingData>
     <Item type="CHandlingData">
       <handlingName>rrghostbyv</handlingName>
-      <fMass value="1800.000000" />
+      <fMass value="1700.000000" />
       <fInitialDragCoeff value="5.0" />
       <fDownforceModifier value="10.00000"/>
       <fPercentSubmerged value="85.000000" />
